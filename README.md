@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshot
+
+### State1
+![State1](/images/state1.png)
+
+### State2
+![State2](/images/state2.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
