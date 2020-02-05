@@ -2,8 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshot
 
-![GitHub Logo](/images/state1.png)
+### State1
+![State1](/images/state1.png)
 
+### State2
+![State2](/images/state2.png)
 
 ## Available Scripts
 
